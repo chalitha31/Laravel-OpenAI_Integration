@@ -12,8 +12,12 @@
         "php": "^8.2",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
+<<<<<<< HEAD
         "openai-php/client": "^0.13.0",
         "openai-php/laravel": "^0.13.0"
+=======
+        "openai-php/client": "^0.13.0"
+>>>>>>> 6ef551e6baf5e4764c84b9f19108461649e2f3a2
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",

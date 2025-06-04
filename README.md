@@ -60,7 +60,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Laravel-OpenAI_Integration
+<<<<<<< HEAD
 
 
 # Laravel middleware OpenAI AP sdk
 composer require openai-php/client
+=======
+>>>>>>> 6ef551e6baf5e4764c84b9f19108461649e2f3a2

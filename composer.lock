@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "9167c4e5171ac4bdd40ac9fc02bd47e0",
+=======
+    "content-hash": "992f275f13ef24d827c762cf96767439",
+>>>>>>> 6ef551e6baf5e4764c84b9f19108461649e2f3a2
     "packages": [
         {
             "name": "brick/math",
@@ -2600,6 +2604,7 @@
             "time": "2025-05-14T21:43:59+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "openai-php/laravel",
             "version": "v0.13.0",
             "source": {
@@ -2689,6 +2694,8 @@
             "time": "2025-05-14T22:07:36+00:00"
         },
         {
+=======
+>>>>>>> 6ef551e6baf5e4764c84b9f19108461649e2f3a2
             "name": "php-http/discovery",
             "version": "1.20.0",
             "source": {
